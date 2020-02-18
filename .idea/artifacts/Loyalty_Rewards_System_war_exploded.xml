@@ -8,7 +8,7 @@
           <element id="module-output" name="Loyalty Rewards System" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="org.mariadb.jdbc:mariadb-java-client:2.5.4" />
+          <element id="library" level="project" name="mariadb-java-client-2.5.4" />
         </element>
       </element>
     </root>
