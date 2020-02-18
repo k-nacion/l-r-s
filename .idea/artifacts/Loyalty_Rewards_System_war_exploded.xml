@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Loyalty Rewards System:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Loyalty_Rewards_System_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Loyalty Rewards System/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Loyalty Rewards System" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.mariadb.jdbc:mariadb-java-client:2.5.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
